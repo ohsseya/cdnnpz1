@@ -1,0 +1,26 @@
+.red {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
+
+.border-blue {
+    border: 1px solid blue;
+}
+
+.img-size {
+    width: 200px;
+    height: 200px;
+}
+
+.margin-space {
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-bottom: 40px;
+
+}
+
+.padding-space {
+    padding-top: 40px;
+    padding-left: 50px;
+}
